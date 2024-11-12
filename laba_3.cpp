@@ -1,4 +1,5 @@
-﻿#include <iostream>
+//12 var
+#include <iostream>
 #include <math.h>
 #include <vector>
 #include <ctime>
