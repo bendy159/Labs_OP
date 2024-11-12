@@ -1,5 +1,6 @@
-﻿#include <iostream>
-using namespace std;														//Облегчение ввода
+//12 var
+#include <iostream>
+using namespace std;												//Облегчение ввода
 
 int main()
 {	
